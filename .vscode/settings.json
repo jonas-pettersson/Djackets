@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "env\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "env\\Lib\\site-packages\\django\\**",
+		"env\\Lib\\site-packages\\corsheaders\\**",
+		"env\\Lib\\site-packages\\djoser\\**",
+		"env\\Lib\\site-packages\\PIL\\**",
+		"env\\Lib\\site-packages\\rest_framework\\**",
+		"env\\Lib\\site-packages\\stripe\\**"
+    ]
+}
