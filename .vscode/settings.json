@@ -6,6 +6,7 @@
 		"env\\Lib\\site-packages\\djoser\\**",
 		"env\\Lib\\site-packages\\PIL\\**",
 		"env\\Lib\\site-packages\\rest_framework\\**",
-		"env\\Lib\\site-packages\\stripe\\**"
+		"env\\Lib\\site-packages\\stripe\\**",
+		"djackets_django\\"
     ]
 }
